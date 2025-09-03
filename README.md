@@ -42,6 +42,9 @@ charts:-
 - CSV files located in `/data/`
 
 ---
+ - Dashboard Image :- (https://github.com/princesingh-9786/Bank-loan/blob/main/image/dashboard%20image/Overview%20Analysis.png)
+
+---
 <h2> <a class = "anchor" id= "tools-technologies">Tools & Technologies</a></h2
 
 - Sql(Common Table Expressions, joins, Filtering)
@@ -60,5 +63,5 @@ charts:-
  <h2> <a class = "anchor" id= "author&contact">Author & Contact</a></h2>
 
  **Prince Kumar Singh**
- Data Analyst
- Email:- pkumarsingh066@gmail.com
+- Data Analyst
+- Email:- pkumarsingh066@gmail.com
